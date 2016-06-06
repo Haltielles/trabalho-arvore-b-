@@ -12,7 +12,8 @@
  * 
  */
 int main(int argc, char** argv) {
-
+    
+    printf("teste atoa");
     return (EXIT_SUCCESS);
 }
 
